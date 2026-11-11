@@ -1,0 +1,6 @@
+{
+  "name": "TallyPay Merchant Portal",
+  "description": "TallyPay merchant financial dashboard with multi-gateway payments, bKash, NPSB interbank transfers, mobile recharge, and Bangladesh Bank dispute resolution tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
